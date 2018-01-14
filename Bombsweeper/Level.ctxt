@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Level
+comment0.text=\r\n\ The\ level\ world\ for\ the\ game\ bomb\ sweeper.\r\n\ \r\n\ @author\ Anson\ L\r\n\ @version\ Mar\ 2017\r\n
+comment1.params=row\ col\ bombCount
+comment1.target=Level(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Level.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ prepare()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ randomBombGen()
+comment5.params=
+comment5.target=void\ numsForBomb()
+comment6.params=
+comment6.target=void\ displayTiles()
+comment7.params=
+comment7.target=void\ flags()
+comment8.params=
+comment8.target=void\ winCheck()
+comment9.params=
+comment9.target=void\ bombFlagged()
+numComments=10
