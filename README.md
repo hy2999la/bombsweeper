@@ -1,4 +1,4 @@
-# minesweeper
+# Bombsweeper
 Minesweeper in Java through the Greenfoot API
 
 A Highschool project where we recreated minesweeper in Java using the Greenfoot API enviornment.
